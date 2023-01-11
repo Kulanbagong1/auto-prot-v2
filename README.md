@@ -82,10 +82,10 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/202878037-680b8683-a9bd-4d47-9b15-c2a8cdb29a85.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/211825959-d132d352-ea5d-48db-8ef7-a8522edc51d8.png" width="400" title="Autoscript-Lite">
 </p>
 
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/202877802-d4535e15-0e48-4ac1-ad6d-455fe52d0969.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/211826077-9311b57b-47a8-4cf9-b9c4-f2b3eb08a753.png" width="400" title="Autoscript-Lite">
 </p>
