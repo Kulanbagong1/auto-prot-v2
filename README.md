@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-🚀 XRAY Multiport Websocket Premium V2 By Vinstechmy 🚀
+🚀 XRAY Multiport Websocket Premium V2 🚀
 <h2><hr>
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
@@ -12,11 +12,11 @@
 
 ## ⚠️ PLEASE README ⚠️
 <b>
-JIKA ANDA INSTALL ADS BLOCKER BY ABI DARWISH DI SCRIPT INI DAN ANDA NAK TANAM DNS UNTUK BYPASS NETFLIX<br>
+JIKA KALIAN INSTALL ADS DI SCRIPT INI DAN KALIAN INGIN TANAM DNS UNTUK BYPASS NETFLIX<br>
 <br>
-SILA BACA NOTA NI ! -> https://telegra.ph/Cara-Tanam-DNS-Untuk-Bypass-Netflix-11-30<br>
+SILAKAN BACA NOTA INI ! -> https://telegra.ph/Cara-Tanam-DNS-Untuk-Bypass-Netflix-11-30<br>
 <br>
-SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTINGS)<br>
+SILAKAN PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTINGS)<br>
 <br>
 
 ![image](https://user-images.githubusercontent.com/82468311/191471897-986ebe25-5330-4997-8a44-5468b422482a.png) <br>
